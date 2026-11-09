@@ -1,31 +1,31 @@
 {
-  "exported_at": "2026-11-06T16:16:13+00:00",
+  "exported_at": "2026-11-09T22:59:12+00:00",
   "row_counts": {
     "fct_bank_rate_decisions": 259,
-    "fct_yield_curve_daily": 6783,
+    "fct_yield_curve_daily": 6784,
     "fct_monthly_macro": 623,
     "fct_decision_market_reaction": 259
   },
   "series_latest": {
     "IUDBEDR": {
       "name": "bank_rate",
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     },
     "IUDLNPY": {
       "name": "gilt_20y",
-      "latest": "2026-11-04"
+      "latest": "2026-11-05"
     },
     "IUDMNPY": {
       "name": "gilt_10y",
-      "latest": "2026-11-04"
+      "latest": "2026-11-05"
     },
     "IUDSNPY": {
       "name": "gilt_5y",
-      "latest": "2026-11-04"
+      "latest": "2026-11-05"
     },
     "IUDSOIA": {
       "name": "sonia",
-      "latest": "2026-11-04"
+      "latest": "2026-11-05"
     },
     "IUMB482": {
       "name": "mortgage_2y_90ltv",
@@ -45,11 +45,11 @@
     },
     "XUDLERS": {
       "name": "gbp_eur",
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     },
     "XUDLUSS": {
       "name": "gbp_usd",
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     }
   }
 }
